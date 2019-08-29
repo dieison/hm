@@ -793,9 +793,9 @@
         ]
       },
       "properties": {
-        "id": 2300200,
-        "name": "Acara�",
-        "description": "Acara�"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -1696,6 +1696,11 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "id": 2300309,
         "name": "Acopiara",
         "description": "Acopiara"
@@ -9258,9 +9263,14 @@
         ]
       },
       "properties": {
-        "id": 2302057,
-        "name": "Barroquinha",
-        "description": "Barroquinha"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -12172,9 +12182,14 @@
         ]
       },
       "properties": {
-        "id": 2302602,
-        "name": "Camocim",
-        "description": "Camocim"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -18422,9 +18437,14 @@
         ]
       },
       "properties": {
-        "id": 2303907,
-        "name": "Chaval",
-        "description": "Chaval"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -29498,9 +29518,9 @@
         ]
       },
       "properties": {
-        "id": 2305605,
-        "name": "Independ�ncia",
-        "description": "Independ�ncia"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -32140,9 +32160,9 @@
         ]
       },
       "properties": {
-        "id": 2306108,
-        "name": "Irau�uba",
-        "description": "Irau�uba"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -34450,9 +34470,9 @@
         ]
       },
       "properties": {
-        "id": 2306553,
-        "name": "Itarema",
-        "description": "Itarema"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -43628,9 +43648,9 @@
         ]
       },
       "properties": {
-        "id": 2308609,
-        "name": "Monsenhor Tabosa",
-        "description": "Monsenhor Tabosa"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -45117,9 +45137,9 @@
         ]
       },
       "properties": {
-        "id": 2308906,
-        "name": "Morrinhos",
-        "description": "Morrinhos"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -54488,9 +54508,9 @@
         ]
       },
       "properties": {
-        "id": 2311264,
-        "name": "Quiterian�polis",
-        "description": "Quiterian�polis"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -60728,9 +60748,9 @@
         ]
       },
       "properties": {
-        "id": 2312205,
-        "name": "Santa Quit�ria",
-        "description": "Santa Quit�ria"
+        "id": 35650764,
+        "name": "Sobral",
+        "description": "Sobral"
       }
     },
     {
@@ -63837,7 +63857,7 @@
         ]
       },
       "properties": {
-        "id": 2312908,
+        "id": 35650764,
         "name": "Sobral",
         "description": "Sobral"
       }
