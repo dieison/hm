@@ -147,9 +147,9 @@
         ]
       },
       "properties": {
-        "id": 2300101,
-        "name": "Abaiara",
-        "description": "Abaiara"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -1697,13 +1697,13 @@
       },
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 5,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#FFF",
         "fill-opacity": 0.5,
-        "id": 2300309,
-        "name": "Acopiara",
-        "description": "Acopiara"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -6314,7 +6314,8 @@
       "properties": {
         "id": 2301406,
         "name": "Aratuba",
-        "description": "Aratuba"
+        "description": "Aratuba",
+        "stroke": ""
       }
     },
     {
@@ -7721,9 +7722,11 @@
         ]
       },
       "properties": {
-        "id": 2301703,
-        "name": "Aurora",
-        "description": "Aurora"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri",
+        "stroke": "#FFF",
+        "stroke-width": ""
       }
     },
     {
@@ -7912,9 +7915,11 @@
         ]
       },
       "properties": {
-        "id": 2301802,
-        "name": "Baixio",
-        "description": "Baixio"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri",
+        "stroke": "#FFF",
+        "stroke-width": ""
       }
     },
     {
@@ -9028,9 +9033,9 @@
         ]
       },
       "properties": {
-        "id": 2302008,
-        "name": "Barro",
-        "description": "Barro"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -11800,9 +11805,9 @@
         ]
       },
       "properties": {
-        "id": 2302503,
-        "name": "Brejo Santo",
-        "description": "Brejo Santo"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -15953,9 +15958,9 @@
         ]
       },
       "properties": {
-        "id": 2303303,
-        "name": "Cari�s",
-        "description": "Cari�s"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -18255,9 +18260,9 @@
         ]
       },
       "properties": {
-        "id": 2303808,
-        "name": "Cedro",
-        "description": "Cedro"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -21503,9 +21508,9 @@
         ]
       },
       "properties": {
-        "id": 2304269,
-        "name": "Deputado Irapuan Pinheiro",
-        "description": "Deputado Irapuan Pinheiro"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -28225,9 +28230,9 @@
         ]
       },
       "properties": {
-        "id": 2305407,
-        "name": "Ic�",
-        "description": "Ic�"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -28692,9 +28697,9 @@
         ]
       },
       "properties": {
-        "id": 2305506,
-        "name": "Iguatu",
-        "description": "Iguatu"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -30129,9 +30134,9 @@
         ]
       },
       "properties": {
-        "id": 2305704,
-        "name": "Ipaumirim",
-        "description": "Ipaumirim"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -37901,9 +37906,9 @@
         ]
       },
       "properties": {
-        "id": 2307403,
-        "name": "Juc�s",
-        "description": "Juc�s"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -38300,9 +38305,9 @@
         ]
       },
       "properties": {
-        "id": 2307502,
-        "name": "Lavras da Mangabeira",
-        "description": "Lavras da Mangabeira"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -40828,9 +40833,9 @@
         ]
       },
       "properties": {
-        "id": 2308104,
-        "name": "Mauriti",
-        "description": "Mauriti"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -41306,9 +41311,9 @@
         ]
       },
       "properties": {
-        "id": 2308302,
-        "name": "Milagres",
-        "description": "Milagres"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -43222,9 +43227,9 @@
         ]
       },
       "properties": {
-        "id": 2308500,
-        "name": "Momba�a",
-        "description": "Momba�a"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -47359,9 +47364,9 @@
         ]
       },
       "properties": {
-        "id": 2309508,
-        "name": "Or�s",
-        "description": "Or�s"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -52651,9 +52656,9 @@
         ]
       },
       "properties": {
-        "id": 2310902,
-        "name": "Piquet Carneiro",
-        "description": "Piquet Carneiro"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -55667,9 +55672,9 @@
         ]
       },
       "properties": {
-        "id": 2311355,
-        "name": "Quixel�",
-        "description": "Quixel�"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -58569,9 +58574,9 @@
         ]
       },
       "properties": {
-        "id": 2311900,
-        "name": "Saboeiro",
-        "description": "Saboeiro"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri"
       }
     },
     {
@@ -69331,9 +69336,10 @@
         ]
       },
       "properties": {
-        "id": 2313708,
-        "name": "Umari",
-        "description": "Umari"
+        "id": 35650743,
+        "name": "Cariri",
+        "description": "Cariri",
+        "stroke": ""
       }
     },
     {
